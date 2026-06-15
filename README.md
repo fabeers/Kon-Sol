@@ -8,7 +8,6 @@ do `util.help` in the input to see what commands there are
 
 Ive uploaded it to Github just to get advice/tips on how to properly manage code and 
 maybe learn some new things
-
 If you want to install the code for yourself 
 
 `Releases -> 1 tags -> PersonalProjects -> and it will be the current version`
