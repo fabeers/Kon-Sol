@@ -1,4 +1,6 @@
-﻿public class Program {
+﻿
+
+public class Program {
     public static void Main(string [] args) {
 
         Console.WriteLine("Kon-Sol has Loaded! type 'util.help' for commands!");
@@ -22,10 +24,13 @@
                         "util.print - prints a string of text given by the user",
                         "util.version - prints the current terminal version",
                         "util.consoleclear - clears the console of any other past commands",
+                        "util.consolechangelog - gives you the changelog of the update",
                         "-------------------",
                         "Funny Commands : ",
                         "-------------------",
-                        "fun.rickroll - gives you the rickroll youtube link"
+                        "fun.rickroll - gives you the rickroll youtube link",
+                        "fun.greenconsole - makes your console green",
+                        "fun.returnwhiteconsole - returns your console to white"
                     };
                         
                         foreach (string helpArrayOutput in helpOutput) {
@@ -45,7 +50,7 @@
                     break;
                 
                 case "util.version":
-                    Console.WriteLine("1.0.7 Pre Release");
+                    Console.WriteLine("1.1.0 Beta Release");
                     break;
                 
                 case "util.consoleclear":
@@ -55,9 +60,10 @@
                 case "util.consolechangelog":
                     string[] changelogValue =
                     {
-                        "1.0.7",
+                        "1.1.0",
                         "-----",
-                        "- Added the Changelog Command"
+                        "- Added 2 new commands for fun",
+                        "- Recently put into beta release"
                     };
                     
                     foreach (string changeLogArray in changelogValue) {
@@ -68,6 +74,15 @@
                 case "fun.rickroll": // Funny Commands
                     Console.WriteLine("Here you go: " + "https://www.youtube.com/watch?v=dQw4w9WgXcQ");
                     break;
+                
+                case "fun.greenconsole":
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    break;
+                
+                case "fun.returnwhiteconsole":
+                    Console.ForegroundColor = ConsoleColor.White;
+                    break;
+                
                 default:
                     Console.WriteLine(inputValue + " is an Unknown command");
                     break;
