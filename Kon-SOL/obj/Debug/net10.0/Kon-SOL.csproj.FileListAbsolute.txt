@@ -1,0 +1,14 @@
+/home/fabee/RiderProjects/Kon-SOL/bin/Debug/net10.0/Kon-SOL
+/home/fabee/RiderProjects/Kon-SOL/bin/Debug/net10.0/Kon-SOL.deps.json
+/home/fabee/RiderProjects/Kon-SOL/bin/Debug/net10.0/Kon-SOL.runtimeconfig.json
+/home/fabee/RiderProjects/Kon-SOL/bin/Debug/net10.0/Kon-SOL.dll
+/home/fabee/RiderProjects/Kon-SOL/bin/Debug/net10.0/Kon-SOL.pdb
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/Kon-SOL.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/Kon-SOL.AssemblyInfoInputs.cache
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/Kon-SOL.AssemblyInfo.cs
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/Kon-SOL.csproj.CoreCompileInputs.cache
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/Kon-SOL.dll
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/refint/Kon-SOL.dll
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/Kon-SOL.pdb
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/Kon-SOL.genruntimeconfig.cache
+/home/fabee/RiderProjects/Kon-SOL/obj/Debug/net10.0/ref/Kon-SOL.dll
